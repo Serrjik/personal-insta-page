@@ -25,7 +25,6 @@ $(document).ready(function(){
 		$(slides[slideIndex-1]).show();
 		setTimeout(showPhotos, 3000);
 
-
 	}
 
 });
